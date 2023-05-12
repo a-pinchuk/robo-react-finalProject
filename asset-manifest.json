@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/robo-react-finalProject/static/css/main.e289aeda.css",
+    "main.js": "/robo-react-finalProject/static/js/main.83bc8866.js",
+    "static/js/328.f9bd66ca.chunk.js": "/robo-react-finalProject/static/js/328.f9bd66ca.chunk.js",
+    "static/js/544.ac42ec72.chunk.js": "/robo-react-finalProject/static/js/544.ac42ec72.chunk.js",
+    "static/js/278.6aac8f33.chunk.js": "/robo-react-finalProject/static/js/278.6aac8f33.chunk.js",
+    "static/js/394.c68cc127.chunk.js": "/robo-react-finalProject/static/js/394.c68cc127.chunk.js",
+    "static/js/917.861cb13c.chunk.js": "/robo-react-finalProject/static/js/917.861cb13c.chunk.js",
+    "static/js/736.594ece57.chunk.js": "/robo-react-finalProject/static/js/736.594ece57.chunk.js",
+    "static/js/35.8877b766.chunk.js": "/robo-react-finalProject/static/js/35.8877b766.chunk.js",
+    "static/js/281.30eb392a.chunk.js": "/robo-react-finalProject/static/js/281.30eb392a.chunk.js",
+    "static/js/862.e24ae1f0.chunk.js": "/robo-react-finalProject/static/js/862.e24ae1f0.chunk.js",
+    "index.html": "/robo-react-finalProject/index.html",
+    "main.e289aeda.css.map": "/robo-react-finalProject/static/css/main.e289aeda.css.map",
+    "main.83bc8866.js.map": "/robo-react-finalProject/static/js/main.83bc8866.js.map",
+    "328.f9bd66ca.chunk.js.map": "/robo-react-finalProject/static/js/328.f9bd66ca.chunk.js.map",
+    "544.ac42ec72.chunk.js.map": "/robo-react-finalProject/static/js/544.ac42ec72.chunk.js.map",
+    "278.6aac8f33.chunk.js.map": "/robo-react-finalProject/static/js/278.6aac8f33.chunk.js.map",
+    "394.c68cc127.chunk.js.map": "/robo-react-finalProject/static/js/394.c68cc127.chunk.js.map",
+    "917.861cb13c.chunk.js.map": "/robo-react-finalProject/static/js/917.861cb13c.chunk.js.map",
+    "736.594ece57.chunk.js.map": "/robo-react-finalProject/static/js/736.594ece57.chunk.js.map",
+    "35.8877b766.chunk.js.map": "/robo-react-finalProject/static/js/35.8877b766.chunk.js.map",
+    "281.30eb392a.chunk.js.map": "/robo-react-finalProject/static/js/281.30eb392a.chunk.js.map",
+    "862.e24ae1f0.chunk.js.map": "/robo-react-finalProject/static/js/862.e24ae1f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e289aeda.css",
+    "static/js/main.83bc8866.js"
+  ]
+}
